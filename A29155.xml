@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at St. Catharine Cree-Church, on the 26th of November, 1691 being the thanksgiving-day, for the preservation of the King, and the reduction of Ireland / by Nicholas Brady ... ; printed at the request of his parishioners.</title>
+            <author>Brady, Nicholas, 1659-1726.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29155</idno>
+            <idno type="STC">Wing B4174</idno>
+            <idno type="STC">ESTC R40295</idno>
+            <idno type="EEBO-CITATION">18827206</idno>
+            <idno type="OCLC">ocm 18827206</idno>
+            <idno type="VID">108385</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29155)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108385)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1663:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at St. Catharine Cree-Church, on the 26th of November, 1691 being the thanksgiving-day, for the preservation of the King, and the reduction of Ireland / by Nicholas Brady ... ; printed at the request of his parishioners.</title>
+                  <author>Brady, Nicholas, 1659-1726.</author>
+               </titleStmt>
+               <extent>[4], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Crouch ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms XVIII, 50 --  Sermons.</term>
+               <term>Thanksgiving Day --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108385:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at St. CATHARINE CREE-CHURCH On the 26th of <hi>November,</hi> 1691. BEING THE <hi>Thankſgiving-day,</hi> FOR THE Preſervation of the KING, and the Reduction of <hi>Ireland.</hi> By <hi>Nicholas Brady,</hi> M. A. Miniſter of St <hi>Catharine Cree-Church,</hi> and Chaplain to his Grace the Duke of <hi>Ormond. Printed at the Requeſt of his Pariſhioners.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Samuel Crouch</hi> at the Corner of <hi>Popes-Head-Alley,</hi> over againſt the Royal Exchange, 1692.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:108385:2"/>
+            <pb facs="tcp:108385:2"/>
+            <head>To my Worthy Friends The Pariſhioners of St. <hi>C. Cree-Church.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Am ſo many ways indebted to you, both for your obliging Election of me to be your Miniſter, and for the ſeveral Civilities which I have received ſince my living amongſt you, that I could not refuſe ſo ſmall an acknowledgment, as that of publiſhing the following Diſcourſe at your Requeſt; tho I am not ignorant, that beſides its own defects, the very ſubject matter of it will ex<g ref="char:EOLhyphen"/>poſe it to the Cenſure of ſome, who will not allow others the liberty to ſpeak well of the Government, whilſt they aſſume to themſelves the priviledge of Railing at it, and <hi>ſpeaking evil of Dignities.</hi> But ſince I propoſed to my ſelf no other end in it, when I delivered it from the Pulpit, than the in<g ref="char:EOLhyphen"/>ſtruction of my Congregation, and the diſcharging of a good Conſcience: I am little concerned what Re<g ref="char:EOLhyphen"/>ception it may meet with abroad, being abundantly ſatisfied (by the deſire you have teſtified to have it made publick) that it has had its wiſh'd effect
+<pb facs="tcp:108385:3"/>upon You who heard it, and for whoſe uſe and advan<g ref="char:EOLhyphen"/>tage it was primarily deſigned. As therefore I have conſented to the Publication of it, for no other reaſon, but becauſe I could not deny you the abſolute diſ<g ref="char:EOLhyphen"/>poſal of that which is ſo juſtly your own; ſo the only return that I expect or deſire, is that you will go on to exemplifie it in your practice; and ap<g ref="char:EOLhyphen"/>prove your ſelves in all things elſe, as true Friends to the Government, as you have done in your fa<g ref="char:EOLhyphen"/>vourable acceptation of the following Diſcourſe. That it may pleaſe God to give you frequent occa<g ref="char:EOLhyphen"/>ſions of Praiſes and Thanksgivings, and to per<g ref="char:EOLhyphen"/>fect the Deliverance which he has ſo happily be<g ref="char:EOLhyphen"/>gun, ſhall be the conſtant Prayer of</p>
+            <closer>
+               <date>Decem. <hi>4th. 1691.</hi>
+               </date>
+               <signed>
+                  <hi>Your Hearty Well-Wiſher, Obliged Friend, and Servant in the Lord,</hi> N. Brady.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:108385:3"/>
+            <head>A SERMON Preached on the <hi>Thankſgiving-day.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>PSAL. <hi>XVIII. The former part of the laſt Verſe:</hi>
+                  </bibl>
+                  <p>Great deliverance giveth he to his King.</p>
+               </q>
+            </epigraph>
+            <p>GOD having rejected <hi>Saul</hi> from be<g ref="char:EOLhyphen"/>ing King over <hi>Iſrael,</hi> and having raiſed up his choſen Servant <hi>David</hi> to govern in his ſtead, many were the At<g ref="char:EOLhyphen"/>tempts againſt him of his potent and deſign<g ref="char:EOLhyphen"/>ing Enemies, both by open Violence, and by ſecret Practices: But the Lord, <hi>whoſe right hand has the preheminence, and brings mighty things to paſs, whoſe Counſel ſhall ſtand, let there
+<pb n="2" facs="tcp:108385:4"/>be never ſo many devices in the heart of man, gave Victory unto his King, and ſhewed Mercy unto his Anointed;</hi> and by ſignal and fre<g ref="char:EOLhyphen"/>quent manifeſtations of his Power, eſta<g ref="char:EOLhyphen"/>bliſhed and quietly ſetled him in that Throne, to which his good Providence had ſo remark<g ref="char:EOLhyphen"/>ably conducted him. In grateful Comme<g ref="char:EOLhyphen"/>moration of theſe wonderful Deliverances, the Royal Prophet compoſed this Pſalm of Thankſgiving, as we may clearly gather from the Preface of it, where it is intitled, <hi>A Pſalm of David the Servant of the Lord, who ſpake unto the Lord the words of this Song, in the day that the Lord delivered him out of the hand of all his Enemies, and out of the hand of Saul.</hi> In it, he gives us a large and elo<g ref="char:EOLhyphen"/>quent deſcription of Almighty Power and unbounded Goodneſs, and ſhews us how eminently they had both been exerted in his own favour; and being rapt up into a ho<g ref="char:EOLhyphen"/>ly extaſie, upon a due contemplation of the Mercies which he had received, he breaks forth into this paſſionate Acknowledgment in the words of my Text, <hi>Great deliverance giveth he to his King.</hi>
+            </p>
+            <pb n="3" facs="tcp:108385:4"/>
+            <p>In my following Diſcourſe upon which words, I ſhall inſiſt upon theſe four parti<g ref="char:EOLhyphen"/>culars; The two former of which are con<g ref="char:EOLhyphen"/>tained in my Text: The two later are natu<g ref="char:EOLhyphen"/>rally deducible from it, and fitly accommo<g ref="char:EOLhyphen"/>dated to the preſent occaſion.</p>
+            <p>Firſt, I ſhall examine what it is to be <hi>Gods King,</hi> and what qualifications are gene<g ref="char:EOLhyphen"/>rally found in ſuch a Prince as may juſtly de<g ref="char:EOLhyphen"/>ſerve that Denomination.</p>
+            <p>Secondly, I ſhall ſhew, that to ſuch a Prince as is <hi>God's King, God will give great deliverance.</hi>
+            </p>
+            <p>Thirdly, I ſhall prove, both from the qualifications generally found, and from the deliverance given, that his preſent Majeſty does juſtly deſerve the denomination of <hi>God's King.</hi>
+            </p>
+            <p>Fourthly and laſtly, I ſhall enquire what Returns are due from us to God, for <hi>the great deliverance which he has given to his King.</hi>
+            </p>
+            <p>Firſt then, I ſhall examine what it is to be <hi>Gods King;</hi> and what Qualifications are generally found in ſuch a Prince, as may juſtly deſerve that denomination: <hi>Great de<g ref="char:EOLhyphen"/>liverance giveth he to</hi> His <hi>King.</hi>
+            </p>
+            <pb n="4" facs="tcp:108385:5"/>
+            <p>It is indeed moſt undeniably true, that in a large and unlimited ſenſe every Sove<g ref="char:EOLhyphen"/>reign Prince may be ſtyled <hi>God's King,</hi> ſince the moſt Arbitrary Tyrants and moſt forci<g ref="char:EOLhyphen"/>ble Uſurpers, are without queſtion ordain<g ref="char:EOLhyphen"/>ed by God, according as he teſtifies of him<g ref="char:EOLhyphen"/>ſelf, <hi>Is there any evil in the City, and I have not done it?</hi> But what we here mean by <hi>His King,</hi> is ſuch a King as is deſigned by God to be the inſtrument of ſignal Mercies, and an extraordinary Bleſſing to the people which he governs: And in ſuch a Prince as we now ſpeak of, theſe three following Quali<g ref="char:EOLhyphen"/>fications are generally found.</p>
+            <p n="1">1. A viſible and more than common de<g ref="char:EOLhyphen"/>ſignation of him to the Government.</p>
+            <p n="2">2. A Courſe of Government advantagi<g ref="char:EOLhyphen"/>ous to his People, and tending to the Ad<g ref="char:EOLhyphen"/>vancement of True Religion.</p>
+            <p n="3">3. A Life Exemplary and Unblameable in his private Actions and Converſation.</p>
+            <p n="1">1. Then, in order to denominating a Prince <hi>God's King,</hi> there is generally found a viſible and more than common deſignation of him to the Government.</p>
+            <pb n="5" facs="tcp:108385:5"/>
+            <p>God, in his ordinary Diſpenſation of com<g ref="char:EOLhyphen"/>mon Mercies, generally proceeds in a ſetled courſe; he makes his Sun to riſe daily, his Rain to fall at its appointed Seaſon; and thus he diſpenſes his uſual Bleſſings after a familiar manner, in a regular way, and ties himſelf up (as it were) to Rule and Me<g ref="char:EOLhyphen"/>thod: But when he deſigns to bleſs remark<g ref="char:EOLhyphen"/>ably, and to give extraordinary Inſtances of his good Will and Favour, he then has no other bounds but his own Omnipotency, and conſtrains us to confeſs, that <hi>it is the Lord's doing,</hi> by making his proceedings appear <hi>mar<g ref="char:EOLhyphen"/>vellous in our eyes.</hi> Thus, if a Nation be to be reſcued from Slavery, a <hi>Moſes</hi> ſhall be ſent in the power of Miracles; if a tottering Government be to be ſettled and confirmed, a <hi>David</hi> ſhall be conducted to the Helm, by a conſtant Series of moſt eſpecial Provi<g ref="char:EOLhyphen"/>dences; if Idolatry be to be rooted out, a <hi>Jehu</hi> ſhall be Anointed to it in a particular and ſolemn manner; that ſo, at the ſame time that we are ſenſible of the Mercy, we may alſo perceive from whoſe hand it comes; that God may not only <hi>give Bleſſings unto his People,</hi> but may <hi>make unto himſelf alſo a glorious Name.</hi>
+               <pb n="6" facs="tcp:108385:6"/>For indeed, we are all too apt <hi>to ſacrifice to our Net</hi> (as the Prophet words it) to aſcribe our ſucceſſes to our own endeavours, than which we cannot offer a greater affront to the Almighty, Author of them: God there<g ref="char:EOLhyphen"/>fore being willing to aſſert and vindicate his own Honour, and being jealous of <hi>his Glory, which he will not give to another,</hi> interpoſes vi<g ref="char:EOLhyphen"/>ſibly in ſuch remarkable occurrences, and by ſo doing extorts a Confeſſion, that <hi>we were not delivered by our own ſtrength, neither did our own arm ſave us; but his right hand, and his arm, and the light of his countenance, becauſe he had a favour for us.</hi> When we find things go on in the common road, and proceed for<g ref="char:EOLhyphen"/>ward in an unbroken courſe, if any altera<g ref="char:EOLhyphen"/>tion happens for the better, we are apt to impute it to Chance or Accident, or the un<g ref="char:EOLhyphen"/>certain Viciſſitude of Worldly affairs, and ſeldom do we look up to a higher Cauſe: But, when in order to that end, we ſee the current of Affairs unaccountably diverted from its proper Channel, Ancient Conſtitu<g ref="char:EOLhyphen"/>tions aboliſhed, and new ones introduced; and all this done as ſuddenly and ſurprizingly as a Scene is ſhifted in the Theatre; when
+<pb n="7" facs="tcp:108385:6"/>when we ſee <hi>the mighty,</hi> againſt all manner of probability, <hi>brought down from his ſeat,</hi> and <hi>the humble and meek,</hi> againſt all human ap<g ref="char:EOLhyphen"/>pearance, <hi>exalted to it,</hi> we cannot then but diſcover his hand in it, <hi>who raiſes up one and caſts down another,</hi> we cannot but acknowledg that our <hi>Salvation is of the Lord.</hi> This there<g ref="char:EOLhyphen"/>fore is the firſt Qualification generally found in ſuch a Prince, as may juſtly be denomina<g ref="char:EOLhyphen"/>ted <hi>God's King;</hi> a viſible and more then com<g ref="char:EOLhyphen"/>mon deſignation of him to the Government.</p>
+            <p>But becauſe this may be as well applied to Tyrants, who are ſent by God for Scourges to a Rebellious Nation, as to thoſe who are deſigned Protectors and Deliverers; therefore,</p>
+            <p>A ſecond Qualification of ſuch a Prince, as may juſtly be denominated God's King, is a Courſe of Government advantageous to his People, and tending to the Advancement of True Religion.</p>
+            <p>The two great Ends which God propoſes to himſelf, by ſending a Bleſſing of ſo high a Nature, are the benefit of thoſe to whom he ſends it, and the Glory of his own great Name: The former of theſe cannot be at<g ref="char:EOLhyphen"/>tained, but by ſuch a Courſe of Government
+<pb n="8" facs="tcp:108385:7"/>as is advantageous to the People; nor the later, unleſs it tend to the advancement of God's Worſhip in its Purity, and to the fur<g ref="char:EOLhyphen"/>therance of true Religion: But God neither lays his deſigns ſo ſhallowly, nor executes them ſo weakly, as to run any hazard of a diſappointment; and conſequently his ends will aſſuredly be compleated, and that pro<g ref="char:EOLhyphen"/>bably by ſuch means as I have already aſſign<g ref="char:EOLhyphen"/>ed. And indeed this is the trueſt <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>or touchſtone, by which we may at any time be able to diſtinguiſh, whether God ſends us a Prince in Mercy, or whether <hi>he gives us a King in his Anger;</hi> ſince thoſe who are deſigned for the Executioners of his Ven<g ref="char:EOLhyphen"/>geance, are as diſcernably advanced by the Divine Aſſiſtance, as thoſe who are intend<g ref="char:EOLhyphen"/>ed for the Inſtruments of his Favour: It is not therefore the bare Acceſſion to a Crown by an unbeaten Path, that can denominate any one (in the ſenſe of my Text) <hi>Gods King;</hi> but ſuch a management of Affairs during his Adminiſtration, as may anſwer the intentions of unbounded Goodneſs. God ſometimes conducts one to the Throne, and ſeats him in it, and when he has ſo done,
+<pb n="9" facs="tcp:108385:7"/>abandons him to himſelf; and then how different is the man from what he was be<g ref="char:EOLhyphen"/>fore! all the expectation that was raiſed by his unuſual promotion is moſt unhappily diſ<g ref="char:EOLhyphen"/>appointed; his Luſts and his Paſſions hurry him to extremities. Neither Law nor Con<g ref="char:EOLhyphen"/>ſcience can ſet bounds to his Extravagancies; and his <hi>Exit</hi> is generally as ſhameful and as miſerable, as his coming in was honourable and hopeful: But when God has appointed one to be <hi>his King,</hi> he does not only lead him to it by the hand, and eſtabliſh him in it, but upholds him alſo with his Power, and directs him with his Wiſdom, that he may be able <hi>to go in and out before ſo great a People.</hi> Then, the expectation which was at firſt raiſed by his ſignal advancement, is happily kept up by his worthy performan<g ref="char:EOLhyphen"/>ces; <hi>then does Juſtice run down like waters, and Righteouſneſs like a mighty ſtream; becauſe God has given his Judgments unto his King, and has poured out his ſpirit upon his Anointed.</hi> This therefore is the ſecond Qualification of ſuch a Prince, as may juſtly be denominated <hi>God's King,</hi> a courſe of Government advantageous to his People, and tending to the advancement of true Religion.</p>
+            <pb n="10" facs="tcp:108385:8"/>
+            <p>A Third Qualification by which a Prince may juſtly be denominated <hi>God's King,</hi> is a Life exemplary and unblamable in his private Actions and Converſation. A Prince that is deſigned for a Scourge and an Avenger, is generally as ill a Man as he is a King; ſince it is the uſual method of God's Providence, to burn the Rod after he has made uſe of it; and Executioners (we know) are ſeldom choſen out of the beſt of men; the baſeſt and the worſt are commonly thought good enough for ſuch an Employment: But where Bleſſings are diſpenſed, they are always tranſ<g ref="char:EOLhyphen"/>mitted through the hands of Favourites. The Mercy of God is his darling Attribute; nor will he ever proſtitute it ſo far, as to im<g ref="char:EOLhyphen"/>part it by the means of ſuch who have them<g ref="char:EOLhyphen"/>ſelves no title to it: The greateſt of all mercies, the Covenant of Grace, was con<g ref="char:EOLhyphen"/>veyed to mankind by his beſt-beloved; and ſo it is proportionably with ſubordinate Bleſ<g ref="char:EOLhyphen"/>ſings: Now we know <hi>without holineſs it is impoſſible to pleaſe God;</hi> and how ſhall he con<g ref="char:EOLhyphen"/>vey the refreſhings of his goodneſs, by ſuch a One as is the object of his diſpleaſure? We cannot therefore look upon any one to
+<pb n="11" facs="tcp:108385:8"/>be <hi>God's King,</hi> where we do not ſee ſome Rays of the Divine Perfection breaking forth in his Life and Converſation: And hence it is that the Royal Prophet, who names him<g ref="char:EOLhyphen"/>ſelf <hi>his King</hi> in the words of my Text, ſtiles himſelf in the Preface of this Pſalm, <hi>the Ser<g ref="char:EOLhyphen"/>vant of the Lord.</hi> And certainly it is the greateſt advantage imaginable, towards draw<g ref="char:EOLhyphen"/>ing down Bleſſings of the firſt magnitude upon a Nation, to have a Prince whoſe Acti<g ref="char:EOLhyphen"/>ons are exemplary and unblamable; ſince he is not only qualified thereby to be a fit In<g ref="char:EOLhyphen"/>ſtrument for the conveyance of them; but by the ſtrength and power of ſo eminent an Example, will probably influence his Sub<g ref="char:EOLhyphen"/>jects alſo, and fit them for the reception and improvement of them. This therefore is the third Qualification of ſuch a Prince as may juſtly be denominated <hi>God's King,</hi> a Life Exemplary and Unblamable in his private Actions and Converſation.</p>
+            <p>And indeed, the Royal Author of this Pſalm of Thankſgiving might juſtly apply that title to himſelf, ſince he was ſignally qualified in theſe three particulars. Through what an amazing labyrinth of Dangers and
+<pb n="12" facs="tcp:108385:9"/>of Difficulties did the clue of Divine Provi<g ref="char:EOLhyphen"/>dence direct him to the Throne! How ſtu<g ref="char:EOLhyphen"/>diouſly did he conſult the good of his Sub<g ref="char:EOLhyphen"/>jects, and how zealouſly did he eſtabliſh Religion in its purity! How Examplary was his Life, and how Unblamable his Conver<g ref="char:EOLhyphen"/>ſation! Well might he then aſſure himſelf of the Divine Protection, and that <hi>God would give great deliverance to his King.</hi>
+            </p>
+            <p>And this leads me to the conſideration of my ſecond General, namely, to ſhew, that to ſuch a Prince as is <hi>God's King, God will give great deliverance: Great deliverance giveth he to his King.</hi>
+            </p>
+            <p>God is not a man that he ſhould repent, nor does he ever do things by halves, but will thoroughly compleat whatever he has deſigned: To raiſe up a man after his own heart, to advance him by unuſual methods to the Supreme Authority, to promote by his means the publick good both of Church and State; and when by the vigorous diſ<g ref="char:EOLhyphen"/>charge of his Duty in ſo eminent a Station, he has expoſed himſelf to dangers and to dif<g ref="char:EOLhyphen"/>ficulties, to let him then ſink poorly under them, were to impeach himſelf of impoten<g ref="char:EOLhyphen"/>cy
+<pb n="13" facs="tcp:108385:9"/>or inconſtancy, either of which would derogate from the Divine Perfection. God has engaged himſelf in honour, to ſtand by him whom he has ſo viſibly acknowledged for <hi>his King;</hi> and <hi>if God be for him, who can be againſt him?</hi> How little will all the Tricks and Contrivances of human Policy be able to ſupplant or undermine him, who has the Wiſdom of God to ſupport him and ſuſtain him! <hi>God bringeth the counſel of the Heathen to nought, and maketh the devices of the People of none effect: But the counſel of the Lord ſtand<g ref="char:EOLhyphen"/>eth for ever, and the thoughts of his heart to all generations:</hi> How little can the united Forces of Conſpiring Adverſaries prevail againſt him, who has the Power of God to ſtrengthen and uphold him! <hi>He will not be afraid for ten thouſands of the people, that ſhould ſet them<g ref="char:EOLhyphen"/>ſelves againſt him round about; for God ſmites all his enemies upon the cheek-bone, and breaks the teeth of the ungodly.</hi> Since God has de<g ref="char:EOLhyphen"/>ſigned him for the performance of a work, he will not ſuffer him to faint till the Ac<g ref="char:EOLhyphen"/>compliſhment of it; for that were to fru<g ref="char:EOLhyphen"/>ſtrate his own intentions, and conſequently to be inconſiſtent with himſelf; that were
+<pb n="14" facs="tcp:108385:10"/>to make the workers of Iniquity to rejoyce and triumph, and to ſay over him, <hi>There, there,</hi> ſo would we have it; to leave the two great ends at which he aim'd, the benefit<g ref="char:EOLhyphen"/>ing the publick, and the advancing true Re<g ref="char:EOLhyphen"/>ligion, utterly imperfect and uncompleated; and to bring his own power into queſtion and diſpute: And therefore <hi>Moſes</hi> makes uſe of this argument effectually and ſucceſsfully, to turn away God's Anger from the Jewiſh Congregation, by intereſting the Divine Ho<g ref="char:EOLhyphen"/>nour in their preſervation, for perfecting the work which he had undertaken; <hi>Now if thou ſhalt kill all theſe people</hi> (ſays he) <hi>as one man, then the Nations which have heard the fame of thee will ſpeak, ſaying, Becauſe the Lord was not able to bring this people into the Land which he ſware unto them, therefore hath he ſlain them in the wilderneſs: and now I beſeech thee, let the power of my Lord be great as thou haſt ſpoken.</hi> But, ſhall the deſigns of the Lord juſt <hi>come unto the birth,</hi> and can there be wanting <hi>ſtrength to bring forth?</hi> No certainly, <hi>God will riſe up as in mount Perazim, and ſtrengthen himſelf as in the valley of Gibeon, that he may do his work, his ſtrange work; and bring to paſs his act, his
+<pb n="15" facs="tcp:108385:10"/>ſtrange act: He will give Salvation unto his King, and will deliver David his ſervant from the peril of the Sword; he will hear his Anoint<g ref="char:EOLhyphen"/>ed from his holy Heaven, even with the whole<g ref="char:EOLhyphen"/>ſome ſtrength of his right hand.</hi> Having thus run over the two general Propoſitions which were contained in the words of my Text, I proceed in the third place, to conſider the former of theſe two, which are naturally deducible from it, and fitly accommodated to the preſent occaſion; namely, to prove both from the qualifications generally found in ſuch a Prince, and from the Deliverances given to him, that his preſent Majeſty is <hi>God's King.</hi>
+            </p>
+            <p>The firſt Qualification, as you have been told, is a viſible and more than common de<g ref="char:EOLhyphen"/>ſignation of him to the Government: And certainly, no Prince was ever advanced to the Sovereign Authority in a more remark<g ref="char:EOLhyphen"/>able manner, or more evidently promoted by God himſelf, than ours was. For, how prodigious will it appear in future Story, that preſently upon his Landing, with ſo inconſiderable a party is compared to the nu<g ref="char:EOLhyphen"/>merous multitudes that might have oppoſed
+<pb n="16" facs="tcp:108385:11"/>him, he ſhould quietly poſſeſs himſelf of the whole Kingdom, almoſt without the effuſion of one drop of Blood! Who, but God alone, who <hi>has the hearts of all men in his hand, as the rivers of waters, and turns them whitherſoever he pleaſes,</hi> could <hi>have bowed the hearts of all the people to him, even as the heart of one man?</hi> Could any thing be more ſtrange or improbable, if we conſider it af<g ref="char:EOLhyphen"/>ter the manner of men, than that a King, peaceably poſſeſſed of the Throne of his Anceſtors, eſtabliſhed in the Government for ſeveral years, and thereby having had means to oblige many, ſhould ſcarce find one in the extent of his Dominions, that durſt maintain and eſpouſe his cauſe againſt an Enemy, in all appearance much weaker than himſelf! That an Army of Engliſh-men, and conſequently Courageous, ſhould una<g ref="char:EOLhyphen"/>nimouſly Disband, without fighting a ſtroke in behalf of him who had raiſed them and maintained them? That ſo many different Factions which divided us among our ſelves, ſhould unanimouſly agree in the ſame Re<g ref="char:EOLhyphen"/>ſolution, and fill up the vacant Throne by common conſent, notwithſtanding all for<g ref="char:EOLhyphen"/>mer
+<pb n="17" facs="tcp:108385:11"/>Heats and Animoſities? Yet theſe al<g ref="char:EOLhyphen"/>moſt impoſſible Suppoſitions did all concur, to advance his preſent Majeſty to the Go<g ref="char:EOLhyphen"/>vernment of theſe Nations, and thereby to convince us that he is <hi>God's King.</hi>
+            </p>
+            <p>A ſecond Qualification, as you may re<g ref="char:EOLhyphen"/>member, is a courſe of Government advan<g ref="char:EOLhyphen"/>tageous to his People, and tending to the ad<g ref="char:EOLhyphen"/>vancement of True Religion: And here alſo I may ſafely affirm, that his preſent Majeſty has fully and ſufficiently made good this Cha<g ref="char:EOLhyphen"/>racter. For, does not the Engliſh Reputa<g ref="char:EOLhyphen"/>tion which was lately ſullied, and almoſt to<g ref="char:EOLhyphen"/>tally Eclipſed, begin to ſhine out in its An<g ref="char:EOLhyphen"/>cient Luſtre, and to dazle the Eyes of Foreign Beholders? Are not Liberty and Property, thoſe two great priviledges which jointly make up the Birthright of an Engliſh-man; and happily diſtinguiſh him from moſt other Subjects, reſcued from the encroachments which they were about to ſink under? Are not the ſeveral Courts of Juſtice and Equity advantageouſly redeemed from Bribery and Oppreſſion, and become in deed, what they were formerly but in name? But above and before all, is not our endanger'd and almoſt
+<pb n="18" facs="tcp:108385:12"/>ſupplanted Religion ſetled again upon its ſure Foundation, and not only by Law Eſta<g ref="char:EOLhyphen"/>bliſhed, but by Law protected alſo? Are not our Churches retrieved from their de<g ref="char:EOLhyphen"/>ſtined perverſion to the uſe of Error and Su<g ref="char:EOLhyphen"/>perſtition, and ſetled in the due Exerciſe of a Reaſonable Service? Theſe, and ſuch like, have been the bleſſed Effects of his preſent Majeſties Government, and they abundantly evince to us, That he is <hi>God's King.</hi>
+            </p>
+            <p>A Third Qualification, as you have been informed, is a Life Exemplary and Unbla<g ref="char:EOLhyphen"/>mable in his private Actions and Converſati<g ref="char:EOLhyphen"/>on: And here we ought to bleſs God, that we can now commend a Prince's Morals with<g ref="char:EOLhyphen"/>out the odious Imputation of Servile Flat<g ref="char:EOLhyphen"/>tery; that we can extol in him the practice of ſuch or ſuch Vertues, without being thought to Ridicule him thereby for the Commiſſion of the contrary Vices: That God has been graciouſly pleaſed to ſet one over us, who is not only a good King, but a good Man too, and makes Greatneſs and Virtue no longer incompatible. And O! that the In<g ref="char:EOLhyphen"/>fluence of good Example were as ſtrong and prevalent as the Contagion of an ill one!
+<pb n="19" facs="tcp:108385:12"/>And that both Sexes would be as ready to take Leſſons from the Throne of Modeſty and Sobriety, as they are generally prone to follow great Examples of Liceſitiouſneſs and Intemperance! I chuſe to ſpeak leſs than I ought upon this Head, leſt I might be thought by ſome to ſay too much; and ſhall only add, that as well by this as by the two former qualifications, his preſent Majeſty may juſtly challenge the denomination of <hi>God's King.</hi>
+            </p>
+            <p>Another Branch of the proof propoſed, was to be taken from the Deliverances which have been given him, by which alſo God has approved him to be <hi>his King.</hi>
+            </p>
+            <p>If ever the Providence of God watched over any ſingle perſon in ſo eminent a man<g ref="char:EOLhyphen"/>ner, as to make him ſeem to be the whole care of Heaven, his preſent Majeſty has been bleſſed with that advantage: Not to inſiſt upon the wonderful Deliverances he has ex<g ref="char:EOLhyphen"/>perienced in his former years, being inured to Hardſhips and Difficulties, being bred up from a Child in the midſt of Dangers, and having been <hi>a Man of War from his Youth:</hi> We ſhall find ſufficient Inſtances of the Di<g ref="char:EOLhyphen"/>vine
+<pb n="20" facs="tcp:108385:13"/>Favour and Protection, ſince his Auſpi<g ref="char:EOLhyphen"/>cious Entrance upon the Government of theſe Kingdoms. How did the Weapons of his Enemies drop out of their Hands upon his firſt Appearance within this Nation, as if a Voice from Heaven had given Command, <hi>Touch not mine Anointed, and do my King no barm!</hi> How has he beeen ſurrounded with a Wall of Braſs in the midſt of Horror and Deſtruction! How has the Lord <hi>covered his Head in the day of Battle;</hi> and <hi>when Thouſands have fallen on his ſide, and ten Thouſands on his Right Hand, yet has not ſuffered it to come nigh him!</hi> How induſtriouſly has he purſued and ſought out Danger, and how conſtant<g ref="char:EOLhyphen"/>ly has that avoided him and fled before him! How has God <hi>rebuked</hi> (in his Favour) <hi>the Winds and the Seas,</hi> and brought him forth ſafe from the <hi>horrours of the deep,</hi> and <hi>ſet his Feet upon a Rock, and ordered his goings!</hi> How has he diſcovered and laid open to him the ſecret Machinations of his Treacherous Ad<g ref="char:EOLhyphen"/>verſaries, and made themſelves <hi>to fall into the Trap which they had laid for him.</hi> In a word, How has God protected him <hi>from perils by Land, and perils by Water, perils from his own
+<pb n="21" facs="tcp:108385:13"/>Country-men, and perils from the Heathen!</hi> (as St. <hi>Paul</hi> expreſſes himſelf in his Catalogue of Diſtreſſes.) Well may we then conclude with the Royal Pſalmiſt, That <hi>many and grievous have been his Troubles, but the Lord has delivered him out of them all;</hi> and both by the qualifications required in ſuch a Perſon, and by the great Deliverances which he has given to him, has undeniably demonſtrated that he is <hi>His King.</hi>
+            </p>
+            <p>But, as if it were a ſmall thing in the Eye of the Lord to reſcue and relieve him out of all his Diſtreſſes, and to <hi>give great deliverance unto</hi> This <hi>His King.</hi> He has done yet more for him and us; he has added to his Delive<g ref="char:EOLhyphen"/>rance Succeſs and Triumph, witneſs the happy Reduction of the Neighbouring Na<g ref="char:EOLhyphen"/>tion: So that <hi>he has</hi> not only <hi>ſaved his life from deſtruction,</hi> but <hi>has crowned him</hi> alſo <hi>with mercy and loving-kindneſs; as for his Enemies he has clothed them with ſhame, but upon himſelf he has made his Crown to flouriſh.</hi> Certainly, the conſideration of ſuch extraordinary ad<g ref="char:EOLhyphen"/>vantages, ſhould powerfully induce us to give praiſe unto God, who <hi>has given ſuch great deliverance to his King,</hi> and communicated by Him ſuch Benefits to us all.</p>
+            <pb n="22" facs="tcp:108385:14"/>
+            <p>And this leads me to the conſideration of the Fourth and laſt General, being the ſecond Propoſition deducible from the words of my Text; namely, To enquire what Returns are due from us to God, for <hi>the great delive<g ref="char:EOLhyphen"/>rance which he has given to his King.</hi>
+            </p>
+            <p>Ingratitude is not only the baſeſt, but the moſt dangerous too of all Vices, and draws after it a Train of Conſequences, no leſs fatal and deſtructive, than they are ſhame<g ref="char:EOLhyphen"/>ful and diſhonourable: Even amongſt Men themſelves, he forfeits all Title to future Favours, that is unthankful for thoſe which he has already received; and nothing makes a Man leſs befriended in his neceſſity, or more unpitied in his adverſity, than the black Imputation and Character of an ungrateful perſon: But when the Caſe is ſtated between God and Man, the woful effects of ſo de<g ref="char:EOLhyphen"/>generate a temper are vaſtly greater and more pernicious: for then, we do not only cut off our own expectations, and render our ſelves uncapable of future mercies; but we loſe the advantage alſo of all our former Bleſſings, and by an unhappy kind of Alchymy convert them into Curſes. How ſignally and re<g ref="char:EOLhyphen"/>markably
+<pb n="23" facs="tcp:108385:14"/>we have lately felt the comfortable Refreſhings of the Divine Goodneſs, none can be ſo ſtupid as to be ignorant, none ſo impudent as to deny: If we look upon the Preſervation and Eſtabliſhment of our tot<g ref="char:EOLhyphen"/>tering Religion, the happy Union of our ſelves at home, and the ſucceſsful progreſs of our Arms abroad, we cannot but acknow<g ref="char:EOLhyphen"/>ledge, that <hi>God has compaſſed us about with Songs of deliverance;</hi> if we conſider the ma<g ref="char:EOLhyphen"/>ny Dangers and Diſtreſſes from which it has pleaſed the good Providence of God to pro<g ref="char:EOLhyphen"/>tect his preſent Majeſty, both as to open Violence and ſecret Practices, ſo that no wea<g ref="char:EOLhyphen"/>pon, no deſign formed againſt him has proſ<g ref="char:EOLhyphen"/>pered, and how he has been pleaſed to bring him back to his longing People in Health and Safety, we cannot but confeſs, <hi>that great de<g ref="char:EOLhyphen"/>liverance has he given to his King:</hi> And from both conſiderations we muſt neceſſarily in<g ref="char:EOLhyphen"/>fer, that vaſt Returns of Gratitude are due upon our ſide; which we are obliged to pay after the following manner:</p>
+            <p>Firſt, By Praiſes and Thankſgivings to Almighty God, the Author and Fountain of them all. So many viſible appearances
+<pb n="24" facs="tcp:108385:15"/>of the Divine Providence have intitled God to the ſole Honour of our ſignal Deliverances, that it would be a direct robbing him of his Glory, to pretend to aſcribe it to any other; he having acted upon theſe occaſions, as he expreſſes himſelf by the Prophet <hi>Iſaiah; And I looked, and there was none to help; and I won<g ref="char:EOLhyphen"/>dred that there was none to uphold; then my own Arm brought Salvation.</hi> Thus <hi>God aroſe, and his</hi> and our <hi>Enemies were ſcattered; and they that hated</hi> both <hi>him</hi> and us, <hi>fled before him.</hi> Therefore <hi>not unto us, O Lord,</hi> neither to King nor People, <hi>not unto us, but unto thy Name give praiſe, for thy loving mercy and for thy truths ſake.</hi> Nor muſt we think it ſufficient <hi>to draw near</hi> thus <hi>unto God with our mouths, and to honour him with our lips,</hi> to give him only a verbal acknowledgment; no, we muſt demonſtrate our gratitude to be real and ſubſtantial, by making that return which he chiefly expects, in the amendment of our Lives and Converſations: according to the inſtruction of the Prophet <hi>Micah, He hath ſhewn thee, O man, ſuch things as be good; and now what doth the Lord require of thee, but to do juſtly, and to love mercy, and to walk humbly with thy God?</hi>
+            </p>
+            <pb n="25" facs="tcp:108385:15"/>
+            <p>But Secondly, We muſt teſtifie our gra<g ref="char:EOLhyphen"/>titude for theſe Deliverances, by Loyalty and Obedience to their preſent Majeſties, the bleſſed Objects of ſome of theſe Mercies, and the happy Inſtruments of all the others; and having rendered unto God the things that are God's, we muſt alſo render unto <hi>Coe<g ref="char:EOLhyphen"/>ſar</hi> the things which be <hi>Coeſars.</hi> Nor in<g ref="char:EOLhyphen"/>deed can we, without the higheſt diſ-reſpect to God himſelf, be wanting in our Duty to two ſuch Princes, whom he has ſo ſignally declared to be <hi>His King and Queen.</hi> Now this Obedience muſt be expreſſed by a due Recognition of their juſt Authority, by Prayers and Supplications offered up in their behalf, by a decent and reſpectful Behaviour towards them, and by Reverent Expreſſions in relation to them; but chiefly and eſpeci<g ref="char:EOLhyphen"/>ally, by a hearty and vigorous Aſſiſtance of them both with our Lives and Fortunes, for the compleating thoſe great Deliverances, which God through them has ſo happily begun.</p>
+            <p>Thirdly, We muſt teſtifie our Gratitude for theſe Deliverances, by Love and Aſſe<g ref="char:EOLhyphen"/>ction one towards another, the mutual ſha<g ref="char:EOLhyphen"/>rers
+<pb n="26" facs="tcp:108385:16"/>and partakers of them. <hi>Behold, how good and joyful a thing it is, for Brethren to dwell to<g ref="char:EOLhyphen"/>gether in Unity!</hi> Let us, in the name of God, lay aſide all manner of rancour and malice, all unſeemly heats and animoſities, all odious names of Parties and of Factions, <hi>Let bro<g ref="char:EOLhyphen"/>therly love continue,</hi> and the only Contention amongſt us be, who ſhall moſt Zealouſly ſerve his God, who ſhall moſt Vigorouſly aſſiſt his Prince, and who ſhall moſt Cor<g ref="char:EOLhyphen"/>dially affect each other. Thus (as St. <hi>Peter</hi> adviſes, <hi>Let us add to our godlineſs brotherly kind<g ref="char:EOLhyphen"/>neſs,) and to brotherly kindneſs charity.</hi>
+            </p>
+            <p>And therefore Fourthly and Laſtly, We muſt teſtifie our gratitude for theſe Deliverances, by ſhewing Charity to our diſtreſſed Brethren. It is the moſt natural Return of Thankful<g ref="char:EOLhyphen"/>neſs to Almighty God for reſcuing us from our Diſtreſſes, when we endeavour to Copy out that great Original, by relieving (as far as we can) the neceſſities of others: For, can we be truly thankful for Mercies, and not love that God from whom we have re<g ref="char:EOLhyphen"/>ceived them? And <hi>he that ſays he loves God, and hates</hi> (that is, relieves not) <hi>his brother, is a liar,</hi> ſays the Apoſtle, <hi>and the truth is not
+<pb n="27" facs="tcp:108385:16"/>in him.</hi> In a word, a grateful Return muſt be made, in ſuch a manner as we know is well-pleaſing and acceptable to God; and therefore <hi>to do good and to diſtribute, we muſt not forget, for with ſuch Sacrifices God is well<g ref="char:EOLhyphen"/>pleaſed.</hi> To him, the Father, Son, and Holy Ghoſt, three Perſons but One God of Mercy, be aſcribed all Honour, Glory, and Thankſgiving, for the manifold Bleſſings which he has conferred upon us all, and for <hi>the great Deliverance which he has given to his King.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:108385:17"/>
+            <head>
+               <hi>Some Books Printed for and ſold by</hi> Samuel Crouch, <hi>at the Corner of</hi> Popes-Head. Ally <hi>next</hi> Cornhil.</head>
+            <list>
+               <head>FOLIO</head>
+               <item>
+                  <hi>R<g ref="char:V">Ʋ</g>ſhworth</hi>'s Collections.</item>
+               <item>The Life, Reign and Death of <hi>Edward</hi> II. King of <hi>England</hi> and Lord of <hi>Ireland,</hi> with the Riſe and Fall of his great Favorites, <hi>Gaveſton</hi> and the <hi>Spencers.</hi> VVritten by <hi>E. F.</hi> in the year 1627, and Prented <hi>verbatim</hi> from the Original.</item>
+            </list>
+            <list>
+               <head>Q<g ref="char:V">Ʋ</g>ARTO.</head>
+               <item>A Sermon Preach'd before the Lord Mayor and Court of Aldermen at <hi>Guild-Hall-Chappel,</hi> upon <hi>Good-Friday, March</hi> 29 1689.</item>
+               <item>A Sermon Preach'd before the King and Queen at <hi>White-Hall,</hi> on the 28th of <hi>December,</hi> 1690.</item>
+               <item>A Sermon preached before the King at <hi>Belfaſt</hi> in <hi>Ireland,</hi> on the 14th day of <hi>June,</hi> 1690. All three by <hi>George Royſe,</hi> D. D. Provoſt of <hi>Oriel</hi> Colledge in <hi>Oxford,</hi> and Chaplain in Ordinary to their Majeſties.</item>
+               <item>The true Intereſt of the Princes of <hi>Europe,</hi> in the pre<g ref="char:EOLhyphen"/>ſent State of Affairs.</item>
+            </list>
+            <list>
+               <head>OCTAVO.</head>
+               <item>The Ingenious and diverting Letters of the Lady — Travels into <hi>Spain:</hi> Deſcribing the Devotions, Nunneries, Humours, Cuſtoms, Laws, Militia, Trade, Diet, and Re<g ref="char:EOLhyphen"/>creations of that People. Intermixt with great Variety of Modern Adventures, and ſurpriſing Accidents; being the trueſt and beſt Remarks extant on that Court and Coun<g ref="char:EOLhyphen"/>try. The firſt and ſecond Part.</item>
+               <item>
+                  <g ref="char:dtristar">*⁎*</g> The third and laſt Part of the Lady — Travels will be publiſhed with all ſpeed.</item>
+               <item>
+                  <hi>Materot Redivivus,</hi> the <hi>Italian</hi> Maſter, ſhewing the great Variety and Beauty of the <hi>Italian</hi> Hand, being a Royal Sheet of Paper, Containing about 950 Letters. By <hi>John Ayres,</hi> Maſter of the Writing-School near St. <hi>Pauls.</hi> Sold by him and <hi>Samuel Crouch.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
